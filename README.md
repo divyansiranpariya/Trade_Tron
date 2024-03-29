@@ -40,7 +40,6 @@ Flutter SDK installed on your machine
 * core_flutter/utils/all_product_data.dart 
 * flutter_rating_bar/flutter_rating_bar.dart
 
----
 
 https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/86c2c9ec-d3ef-43c0-b35b-0de09c9f1174
 
