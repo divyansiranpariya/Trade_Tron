@@ -2,13 +2,13 @@
 
 ## Introduction
 
-<p> The Trade Tron App is a mobile application developed using Flutter. It provides users with a platform to browse various products, view their details, and make purchases. This app utilizes a clean and intuitive interface to enhance the user experience.</p>
+<p>   The Trade Tron App is a mobile application developed using Flutter. It provides users with a platform to browse various products, view their details, and make purchases. This app utilizes a clean and intuitive interface to enhance the user experience.</p>
 
 ## About
 
-<p> The Detail Page module of the Trade Tron App provides users with detailed information about a selected product. Users can view various details such as product images, title, price, category, brand, stock availability, rating, and description.</p>
+<p>   The Detail Page module of the Trade Tron App provides users with detailed information about a selected product. Users can view various details such as product images, title, price, category, brand, stock availability, rating, and description.</p>
 
-<p>The Cart Page module of the Trade Tron App displays the products that users have added to their shopping cart. Users can view the product details, including title, price, and thumbnail images. Additionally, users can delete products from their cart and view the total price of the items added.</p>
+<p>   The Cart Page module of the Trade Tron App displays the products that users have added to their shopping cart. Users can view the product details, including title, price, and thumbnail images. Additionally, users can delete products from their cart and view the total price of the items added.</p>
 
 
 ## Requirement
