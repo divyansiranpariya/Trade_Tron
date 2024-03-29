@@ -2,19 +2,26 @@
 
 ## Introduction
 
-The Trade Tron App is a mobile application developed using Flutter. It provides users with a platform to browse various products, view their details, and make purchases. This app utilizes a clean and intuitive interface to enhance the user experience.
+<p> The Trade Tron App is a mobile application developed using Flutter. It provides users with a platform to browse various products, view their details, and make purchases. This app utilizes a clean and intuitive interface to enhance the user experience.</p>
 
 ## About
 
-The Detail Page module of the Trade Tron App provides users with detailed information about a selected product. Users can view various details such as product images, title, price, category, brand, stock availability, rating, and description.
+<p> The Detail Page module of the Trade Tron App provides users with detailed information about a selected product. Users can view various details such as product images, title, price, category, brand, stock availability, rating, and description.</p>
 
-The Cart Page module of the Trade Tron App displays the products that users have added to their shopping cart. Users can view the product details, including title, price, and thumbnail images. Additionally, users can delete products from their cart and view the total price of the items added.
+<p>The Cart Page module of the Trade Tron App displays the products that users have added to their shopping cart. Users can view the product details, including title, price, and thumbnail images. Additionally, users can delete products from their cart and view the total price of the items added.</p>
+
 
 ## Requirement
 
 Flutter SDK installed on your machine
 * Editor such as Visual Studio Code or Android Studio
 * Basic understanding of Dart programming language and Flutter framework
+
+## Dependencies
+
+* flutter/material.dart
+* core_flutter/utils/all_product_data.dart
+* flutter_rating_bar/flutter_rating_bar.dart
 
 ## Modules
 
@@ -34,11 +41,6 @@ Flutter SDK installed on your machine
 * Allow users to delete products from the cart.
 * Calculate and display the total price of all items in the cart.
 
-## Dependencies
-
-* flutter/material.dart
-* core_flutter/utils/all_product_data.dart 
-* flutter_rating_bar/flutter_rating_bar.dart
 
 
 https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/86c2c9ec-d3ef-43c0-b35b-0de09c9f1174
@@ -51,7 +53,7 @@ https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/86c2c9ec-d3ef-4
 ![pro5](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/338ef382-a243-4a16-af90-0d39ac9fc988)
 ![pro7](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/6552ec10-a69c-442e-bd15-423858cd8fd3)
 
-
+---
 
 
 
