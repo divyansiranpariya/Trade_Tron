@@ -45,7 +45,14 @@ Flutter SDK installed on your machine
 
 https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/86c2c9ec-d3ef-43c0-b35b-0de09c9f1174
 
-![317953731-94864a29-c0cc-45cb-98c1-556ef63991ce](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/0e712184-7c47-4a54-8419-c7ea468be49c)
+![317953732-55f467fe-889b-4f50-b2ab-ad6fe9e5937f](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/37030fd8-7436-4a2f-89dc-ab0f1cee273f)
+![317953734-d4ad4cb3-8da9-4f6c-b99f-4ec68747f694](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/b7aa7990-15a3-4280-bef9-e021dbf9acea)
+![317953738-f46ee70a-bc0f-481b-a6b4-213e9bec5337](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/18a5713d-2fd4-468e-8256-4f501759346a)
+![317953720-8dce6a3c-8852-4285-bb79-9b157f312a6a](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/0410c2f0-85e0-4175-bcb4-57836c0c6c5f)
+
+![317953731-94864a29-c0cc-45cb-98c1-556ef63991ce (1)](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/9a1dd78d-e056-4406-998a-6de79058d178)
+![317953730-6552ec10-a69c-442e-bd15-423858cd8fd3](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/77887400-a36c-4bbd-b0dd-781523390bbe)
+![317953730-6552ec10-a69c-442e-bd15-423858cd8fd3](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/171c7697-e025-4a80-a1d5-58341d436d40)
 
 
 ---
