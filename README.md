@@ -51,7 +51,7 @@ https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/86c2c9ec-d3ef-4
 ![317953720-8dce6a3c-8852-4285-bb79-9b157f312a6a](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/0410c2f0-85e0-4175-bcb4-57836c0c6c5f)
 
 ![317953731-94864a29-c0cc-45cb-98c1-556ef63991ce (1)](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/9a1dd78d-e056-4406-998a-6de79058d178)
-![317953730-6552ec10-a69c-442e-bd15-423858cd8fd3](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/77887400-a36c-4bbd-b0dd-781523390bbe)
+![317953741-338ef382-a243-4a16-af90-0d39ac9fc988](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/28960a1b-afde-4d7e-a28e-d42752695d0d)
 ![317953730-6552ec10-a69c-442e-bd15-423858cd8fd3](https://github.com/divyansiranpariya/Trade_Tron/assets/154776848/171c7697-e025-4a80-a1d5-58341d436d40)
 
 
